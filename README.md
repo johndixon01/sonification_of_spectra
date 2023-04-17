@@ -17,7 +17,7 @@ File descriptions:
 > A short sample of the sonification of star 40, including the bass (temperature) note and a sequence of random spectral notes.
 
 **block_chords.mp3**
-> A short sample of the sonification of stars 15, 69, and 120 (in that order), including the bass (temperature) note and one iteration of the block chord for each spectrum.
+> A short sample of the sonification of stars 15, 69, and 120 (in that order), including the bass (temperature) note and three iterations of the block chord for each spectrum.
 
 **hydrogen_visible.txt**
 > The list of hydrogen spectral lines in the visible spectrum obtained from NIST
