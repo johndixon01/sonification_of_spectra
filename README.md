@@ -25,3 +25,9 @@ File descriptions:
 **helium_visible.txt**
 > The list of helium spectral lines in the visible spectrum obtained from NIST
 
+**hydrogen_visible.mp3**
+> Three iterations of the block chord created by scaling down and combining all spectral lines of hydrogen at their relative intensities.
+
+**helium_visible.mp3**
+> Three iterations of the block chord created by scaling down and combining all spectral lines of helium (He I) at their relative intensities.
+
